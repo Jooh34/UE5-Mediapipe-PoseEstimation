@@ -1,5 +1,7 @@
 # UE5-Mediapipe-PoseEstimation
 UE5-Mediapipe-PoseEstimation
+Sorry for not opening source code to the public.
+
 
 ## Implementation
 - Mediapipe Pose estimation & motion retargeting
@@ -9,5 +11,8 @@ UE5-Mediapipe-PoseEstimation
 
 
 ## Result
+
+<p align="center">
 <img width=300 src="https://github.com/Jooh34/UE5-Mediapipe-PoseEstimation/blob/main/assets/handpose-retargeting.gif" />
 <img width=300 src="https://github.com/Jooh34/UE5-Mediapipe-PoseEstimation/blob/main/assets/pose-retargeting.gif" />
+</p>
